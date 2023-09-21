@@ -1,0 +1,13 @@
+.hoverEffect {
+     transition: transform 0.2s;
+   }
+   
+.hoverEffect:hover {
+     transform: scale(1.1);
+   }
+.buttonMarginTop{
+  color:red
+}
+.Container{
+  min-height: 62vh;
+}
